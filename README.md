@@ -5,7 +5,9 @@ in Canada or it isn't available anymore and i'm trying to learn React/Expo so i'
 this.
 
 # License
-This is licensed under a CreativeCommons Attribution NonCommercial Sharealike 3.0 license
+This is licensed under a [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en#)
+
+
 
 
 
